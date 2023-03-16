@@ -1,0 +1,30 @@
+.button {
+  height: 36px;
+  width: 128px;
+  background-color: #007bff;
+  cursor: pointer;
+  outline: none;
+  border-radius: 12px;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f1f5f8;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+
+.heading {
+  font-size: 30px;
+  color: #2d3a35;
+}
+
+.count {
+  color: #c20a72;
+}
